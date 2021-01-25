@@ -1,7 +1,7 @@
 # 322_project
-Team Name	Foodie Fighters 
-Project Title	Restaurant POS, Inventory, and Employee Management. 
-Project Repository	https://github.com/ToasterMcStrudel/322_project.git
+Team Name:	Foodie Fighters 
+Project Title:	Restaurant POS, Inventory, and Employee Management. 
+Project Repository:	https://github.com/ToasterMcStrudel/322_project.git
 Team Members	            	EECS Account
 Noah Howell    11683774
 Ryan Ortuno    11632680 	ToasterMcStrudel
