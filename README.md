@@ -5,7 +5,7 @@ Project Repository:	https://github.com/ToasterMcStrudel/322_project.git
 Team Members	            	EECS Account
 Noah Howell    11683774
 Ryan Ortuno    11632680 	ToasterMcStrudel
-Oscar Birungi	 11611443   obirungi7
+Oscar Birungi	 11611443   obirungi
 Liana Wu       11673780	  lwu1
 Boris	         11621363   19671
 
