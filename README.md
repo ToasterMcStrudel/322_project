@@ -9,8 +9,8 @@ Oscar Birungi	 11611443   obirungi
 Liana Wu       11673780	  lwu1
 Boris	         11621363   19671
 
-This program will monitor prep times for meals,
-display most ordered meal, most used ingredients,
-and will have a complete POS that will recognize
-combos for discounts. It will also have logins
-to monitor which employee processed the sale.
+
+The program (we believe) will only work in Visual Studio due to its use of Winforms.
+The program just consists of typing in a simple textbox and hitting buttons to execute functions.
+Currently only Torikatsu has a hard-coded price (15.95), so that it demonstrates the error catching of finding items without prices listed. It could be a very important failsafe for a restaurant.
+
