@@ -1,0 +1,10 @@
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\bin\Debug\322_Foodie_Fighters.exe.config
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\bin\Debug\322_Foodie_Fighters.exe
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\bin\Debug\322_Foodie_Fighters.pdb
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\obj\Debug\322_Foodie_Fighters.csprojAssemblyReference.cache
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\obj\Debug\_322_Foodie_Fighters.Form1.resources
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\obj\Debug\_322_Foodie_Fighters.Properties.Resources.resources
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\obj\Debug\322_Foodie_Fighters.csproj.GenerateResource.cache
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\obj\Debug\322_Foodie_Fighters.csproj.CoreCompileInputs.cache
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\obj\Debug\322_Foodie_Fighters.exe
+C:\Users\noahh\source\repos\322_Foodie_Fighters\322_Foodie_Fighters\obj\Debug\322_Foodie_Fighters.pdb
